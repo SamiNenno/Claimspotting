@@ -1,0 +1,9 @@
+django==4.2.*  # Django LTS version (v4.2 as of 202402)
+djangorestframework==3.15.2
+django-cors-headers  #
+django-environ==0.10.0
+pymongo==4.8.0
+tqdm==4.66.5
+psycopg2-binary==2.9.9
+google-cloud-secret-manager==2.16.1
+requests==2.32.3

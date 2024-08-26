@@ -1,0 +1,53 @@
+{
+    "checkpoints":{
+        "query-embedding": "Sami92/multiling-e5-large-instruct-claim-matching",
+        "document-embedding": "Sami92/multiling-e5-large-instruct-claim-matching",
+        "topic-classification": "Sami92/XLM-R-Large-PartyPress-Telegram",
+        "narrative-classification": "Sami92/XLM-R-Large-Disinfo-Narrative-Classifier",
+        "factuality-classification": "Sami92/XLM-R-Large-ClaimDetection",
+        "polarization-classification": "Sami92/XLM-R-Large-Polarization-Classifier",
+        "sensationalism-classification": "todo"
+    },
+    "endpoints":{
+        "query-embedding": "HF_ENDPOINT",
+        "document-embedding": "HF_ENDPOINT",
+        "topic-classification": "todo",
+        "narrative-classification": "todo",
+        "factuality-classification": "todo",
+        "polarization-classification": "todo",
+        "sensationalism-classification": "todo"
+    },
+    "hf_token" : "hf_token",
+    "mongo_db":{
+        "remote_mongo_dp_uri":"MONGO_URI",
+        "mongo_db_name":"DB_NAME",
+        "mongo_vector_db_name":"VECTOR_DB_NAME"
+    },
+    "key_titles":{
+        "query-embedding": "Siblings",
+        "topic-classification": "Topic",
+        "narrative-classification": "Narratives",
+        "factuality-classification": "Factual",
+        "polarization-classification": "Polarising",
+        "sensationalism-classification": "Sensationalist",
+        "outlier-detection":"High_Diffusion",
+        "many-siblings":"Many_Siblings"
+    },
+    "claim_matching_paramters": {
+      "atlas_index_name":"INDEX",
+      "numCandidates":200,
+      "limit":50,
+      "cosine_cutoff":0.91,
+      "sort_by_date":true
+    },
+    "index":{
+        "fields": [
+          {
+            "type": "vector",
+            "path": "text_embedding",
+            "numDimensions": 1024,
+            "similarity": "cosine"
+          }
+        ]
+      }
+}

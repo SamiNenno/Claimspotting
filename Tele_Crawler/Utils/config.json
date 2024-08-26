@@ -1,0 +1,13 @@
+{
+    "limit":60,
+    "wait_for_flood":true,
+    "alternating_configs":true,
+    "config_file":"C3",
+    "random_periods":true,
+    "mongo_db_cores":8,
+    "local_mongo_db_port":"LOCAL_PORT",
+    "local_mongo_db":false,
+    "remote_mongo_dp_uri":"MONGO_URI",
+    "mongo_db_name":"DB_NAME",
+    "max_folders":3
+}

@@ -1,0 +1,56 @@
+{
+    "Access_datetime":null,
+    "Channel_Name":null,
+    "data": {
+        "Publishing_date":null,
+        "Topic": {
+            "Agriculture": 0,
+            "Civil Rights": 0,
+            "Culture": 0,
+            "Defense": 0,
+            "Domestic Commerce": 0,
+            "Education": 0,
+            "Energy": 0,
+            "Environment": 0,
+            "European Union": 0,
+            "Foreign Trade": 0,
+            "Government Operations": 0,
+            "Health": 0,
+            "Housing": 0,
+            "Immigration": 0,
+            "International Affairs": 0,
+            "Labor": 0,
+            "Law and Crime": 0,
+            "Macroeconomics": 0,
+            "Non-thematic": 0,
+            "Other": 0,
+            "Social Welfare": 0,
+            "Technology": 0,
+            "Transportation": 0
+          },
+        "Narratives":{
+            "5G verursacht Krankheiten für Menschen und Tiere.": 0,
+            "Ausländer sind krimineller als Deutsche, werden geringer bestraft und begehen mehr Straftaten, und das wird uns verheimlicht.": 0,
+            "Ausländer und Migranten bekommen mehr Leistungen oder Wohnungen vom Staat als Deutsche.": 0,
+            "Bargeld soll abgeschafft werden.": 0,
+            "Das Wetter war früher überhaupt nicht anders und Naturphänomene wie Vulkanausbrüche sind schuld am Klimawandel.": 0,
+            "Der Anteil des Menschen an den Treibhausgasen ist nur gering und die Wahrheit über den Klimawandel wird verheimlicht.": 0,
+            "Der WHO-Pandemievertrag hebt die Souveränität von Staaten auf und führt zu einer WHO-Diktatur.": 0,
+            "Der Westen hat ein Friedensabkommen zwischen Russland und der Ukraine verhindert.": 0,
+            "Deutschland wird von Faschisten regiert.": 0,
+            "Die Covid-19-Impfung ist nicht ausreichend erforscht und verursacht Nebenwirkungen.": 0,
+            "Die EU kostet Deutschland nur Geld und die EWG würde reichen.": 0,
+            "Die Regierung will gezielt Migranten ins Land holen und schickt Geld ins Ausland während unsere Leute leiden.": 0,
+            "Die Stimmzettel, Urnen und Briefwahl sind manipuliert und Wahlhelfer lassen Stimmen verschwinden.": 0,
+            "Die Wahrheit über die Corona-Maßnahmen, Todesopfer und Covid-Impfung wird verheimlicht.": 0,
+            "E-Mobilität ist schlechter für die Umwelt als Verbrenner Autos.": 0,
+            "Gewisse Lebensmittel, Leitungswasser oder Gentechnik sind gesundheitsschädlich und machen unfruchtbar.": 0,
+            "Hilfsgüter an die Ukraine werden in Wahrheit weggeworfen oder zerstört.": 0,
+            "Homöopathie wirkt über den Placebo-Effekt hinaus und kann schwerwiegende Krankheiten heilen.": 0,
+            "Keins der Narrative trifft zu.": 0,
+            "Selensky ist korrupt und drogenabhängig und die Ukraine wird von Nazis regiert.": 0,
+            "Windräder töten hunderttausende Vögel, verursachen Luftwirbel und Dürre und es werden Wälder für die Windräder gerohdet.": 0
+        }
+
+    }
+}

@@ -2,7 +2,7 @@
 
 ## Über das Projekt
 
-Claimspotting ist ein Teil der Public Interest AI Forschungsgruppe am Humboldt Institut für Internet und Gesellschaft (HIIG). Das Claimspotting-Tool soll Faktenchecker:innen dabei unterstützen, Telegram-Kanäle zu überwachen und Inhalte nach Kriterien zu analysieren, die im Kontext von Desinformation relevant sind. Alle maschinellen Lernmodelle können auf Huggingface abgerufen werden: [Huggingface - Sami92](https://huggingface.co/Sami92).
+Claimspotting ist ein Teil der [Public Interest AI](https://publicinterest.ai/) Forschungsgruppe am Humboldt Institut für Internet und Gesellschaft (HIIG). Das Claimspotting-Tool soll Faktenchecker:innen dabei unterstützen, Telegram-Kanäle zu überwachen und Inhalte nach Kriterien zu analysieren, die im Kontext von Desinformation relevant sind. Alle maschinellen Lernmodelle können auf Huggingface abgerufen werden: [Huggingface - Sami92](https://huggingface.co/Sami92).
 
 ## Projektstruktur
 
@@ -30,7 +30,7 @@ Dieses Modul aktualisiert die statistischen Aspekte der Datenbank, indem es die 
 
 ## About the Project
 
-Claimspotting is part of the Public Interest AI research group at the Humboldt Institute for Internet and Society (HIIG). The Claimspotting tool is designed to assist fact-checkers by monitoring Telegram channels and analysing content according to criteria that are relevant in the context of misinformation. All machine learning models can be accessed on Huggingface: [Huggingface - Sami92](https://huggingface.co/Sami92).
+Claimspotting is part of the [Public Interest AI](https://publicinterest.ai/) research group at the Humboldt Institute for Internet and Society (HIIG). The Claimspotting tool is designed to assist fact-checkers by monitoring Telegram channels and analysing content according to criteria that are relevant in the context of misinformation. All machine learning models can be accessed on Huggingface: [Huggingface - Sami92](https://huggingface.co/Sami92).
 
 ## Project Structure
 
